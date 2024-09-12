@@ -1,6 +1,6 @@
 #TutoEAFIT
 
-##Samuel Correa Velasquez
+
 ##Jeronimo Contreras Sierra
 ##Miguel Marin Mejia
 
